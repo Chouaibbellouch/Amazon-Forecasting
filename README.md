@@ -33,7 +33,7 @@ The project uses the electricity price dataset from AutoGluon:
   - `id`: Region identifier (DE - Germany)
   - `timestamp`: Time of the observation
   - `target`: Electricity price (target variable)
-  - `Ampirion Load Forecast`: Load forecast data
+  - `Ampirion Load Forecast`: Load forecast data (from Amprion TSO)
   - `PV+Wind Forecast`: Photovoltaic and wind generation forecast
 
 ## Installation
